@@ -1,0 +1,30 @@
+(|SYSTEM|::|VERSION| '(20080430.))
+#0Y_ #0Y |CHARSET|::|UTF-8|
+#Y(#:|1 18 (DEFUN MAIN NIL ...)-1|
+   #20Y(00 00 00 00 00 00 00 00 20 01 DA 2F 01 DA DC 32 9C C5 19 01)
+   (|COMMON-LISP-USER|::|MAIN| |SYSTEM|::|REMOVE-OLD-DEFINITIONS|
+    #Y(|COMMON-LISP-USER|::|MAIN|
+       #53Y(00 00 00 00 00 00 00 00 26 01 DA 6B 01 33 01 15 38 04 31 82 0F 02
+            DD 6B 01 33 01 15 38 04 31 7F 0F 04 DF 6B 01 33 01 15 38 04 31 7F
+            0F 06 0E 07 1D 58 00 19 01)
+       (#Y(|COMMON-LISP-USER|::|MAIN-1|
+           #19Y(00 00 00 00 01 00 00 00 21 17 DA AF 38 02 31 95 9E 19 03)
+           ("Welcome to Mastermind (press ENTER to continue): ")
+           (|COMMON-LISP|::|T| |COMMON-LISP|::|T| |COMMON-LISP|::|T|))
+        |COMMON-LISP|::|*STANDARD-OUTPUT*| |COMMON-LISP-USER|::|CONT|
+        #Y(|COMMON-LISP-USER|::|MAIN-2|
+           #19Y(00 00 00 00 01 00 00 00 21 17 DA AF 38 02 31 95 9E 19 03)
+           ("#linefeed How many colours should I use: ")
+           (|COMMON-LISP|::|T| |COMMON-LISP|::|T| |COMMON-LISP|::|T|))
+        |COMMON-LISP-USER|::|NUMCOLOURS|
+        #Y(|COMMON-LISP-USER|::|MAIN-3|
+           #19Y(00 00 00 00 01 00 00 00 21 17 DA AF 38 02 31 95 9E 19 03)
+           ("#linefeed How many pegs should I use: ")
+           (|COMMON-LISP|::|T| |COMMON-LISP|::|T| |COMMON-LISP|::|T|))
+        |COMMON-LISP-USER|::|NUMPEGS| |COMMON-LISP-USER|::|*DONE*|)
+       (|COMMON-LISP|::|T| |COMMON-LISP|::|T| |COMMON-LISP|::|T|) ()
+       |COMMON-LISP|::|NIL| 1))
+   (|COMMON-LISP|::|T| |COMMON-LISP|::|T| |COMMON-LISP|::|T|))
+#Y(#:|20 41 (MAIN)-2| #14Y(00 00 00 00 00 00 00 00 20 01 2E 00 19 01)
+   (|COMMON-LISP-USER|::|MAIN|)
+   (|COMMON-LISP|::|T| |COMMON-LISP|::|T| |COMMON-LISP|::|T|))
