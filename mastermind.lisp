@@ -1,9 +1,9 @@
 ;; Subject:  	CSCI337 - Organisation of Programming Languages
 ;; Task:     	Assignment 3 - Common Lisp
 ;;
-;; Author:		Jordan Rye (5061039)
-;; Email:			jr656@uowmail.edu.au
-;; Created:		29/04/2017
+;; Author:	Jordan Rye (5061039)
+;; Email:	jr656@uowmail.edu.au
+;; Created:	29/04/2017
 ;; Modified:	07/05/2017
 
 ;; Splash message
